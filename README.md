@@ -1,1 +1,5 @@
-# game-dev-notes
+# Handy unity info
+
+```C#
+FindObjectOfType<GameManager>().EndGame();
+```
